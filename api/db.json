@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Virendra",
+      "description": "Description",
+      "id": 1
+    },
+    {
+      "title": "New Title",
+      "description": "Another stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was created by me",
+      "id": 3
+    },
+    {
+      "title": "Programatic Navigation",
+      "description": "The description should on appear on the create.",
+      "userId": "112977284791968629106",
+      "id": 6
+    },
+    {
+      "title": "Thist is being typed in a reusable component",
+      "description": "Test this description",
+      "userId": "112977284791968629106",
+      "id": 7
+    }
+  ]
+}
